@@ -1,0 +1,20 @@
+TL001/Toan hoc
+TL002/Sinh hoc
+TL003/Van hoc
+TL004/Ly hoc
+TL005/Hoa hoc
+TL006/Dia ly
+TL007/Anh van
+TL008/Cong nghe
+TL009/Khoa hoc tu nhien
+TL010/Khoa hoc xa hoi
+TL011/The thao
+TL012/Am nhac
+TL013/My thuat
+TL014/Lich su
+TL015/Dia ly 2
+TL016/Tin hoc
+TL017/Chem hoc
+TL018/Sinh hoc 2
+TL019/Van hoc 2
+TL020/Ly hoc 2

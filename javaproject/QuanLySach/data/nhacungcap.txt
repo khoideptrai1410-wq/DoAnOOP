@@ -1,0 +1,20 @@
+NCC001/Nha Cung Cap A/0987654321/nccA@gmail.com/Ha Noi
+NCC002/Nha Cung Cap B/0912345678/nccB@gmail.com/Ho Chi Minh
+NCC003/Nha Cung Cap C/0978123456/nccC@gmail.com/Da Nang
+NCC004/Nha Cung Cap D/0909123456/nccD@gmail.com/Hai Phong
+NCC005/Nha Cung Cap E/0967123456/nccE@gmail.com/Can Tho
+NCC006/Nha Cung Cap F/0988111222/nccF@gmail.com/Ha Noi
+NCC007/Nha Cung Cap G/0911223344/nccG@gmail.com/Ho Chi Minh
+NCC008/Nha Cung Cap H/0977334455/nccH@gmail.com/Da Nang
+NCC009/Nha Cung Cap I/0901445566/nccI@gmail.com/Hai Phong
+NCC010/Nha Cung Cap J/0966557788/nccJ@gmail.com/Can Tho
+NCC011/Nha Cung Cap K/0988990011/nccK@gmail.com/Ha Noi
+NCC012/Nha Cung Cap L/0912003344/nccL@gmail.com/Ho Chi Minh
+NCC013/Nha Cung Cap M/0977112233/nccM@gmail.com/Da Nang
+NCC014/Nha Cung Cap N/0909334455/nccN@gmail.com/Hai Phong
+NCC015/Nha Cung Cap O/0969001122/nccO@gmail.com/Can Tho
+NCC016/Nha Cung Cap P/0988122334/nccP@gmail.com/Ha Noi
+NCC017/Nha Cung Cap Q/0912345566/nccQ@gmail.com/Ho Chi Minh
+NCC018/Nha Cung Cap R/0977889900/nccR@gmail.com/Da Nang
+NCC019/Nha Cung Cap S/0900556677/nccS@gmail.com/Hai Phong
+NCC020/Nha Cung Cap T/0966677889/nccT@gmail.com/Can Tho

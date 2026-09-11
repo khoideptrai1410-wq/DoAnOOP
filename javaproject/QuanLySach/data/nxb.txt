@@ -1,0 +1,20 @@
+NXB001/Nha Xuat Ban Giao Duc/Ha Noi/024123456/nxb1@gmail.com
+NXB002/Nha Xuat Ban Tre/Ho Chi Minh/028987654/nxb2@gmail.com
+NXB003/Nha Xuat Ban Kim Dong/Da Nang/023678912/nxb3@gmail.com
+NXB004/Nha Xuat Ban Thanh Nien/Hai Phong/022334455/nxb4@gmail.com
+NXB005/Nha Xuat Ban Thoi Dai/Can Tho/029998877/nxb5@gmail.com
+NXB006/Nha Xuat Ban Phu Nu/Ha Noi/024556677/nxb6@gmail.com
+NXB007/Nha Xuat Ban Lao Dong/Da Nang/023445566/nxb7@gmail.com
+NXB008/Nha Xuat Ban Van Hoa/Ho Chi Minh/028667788/nxb8@gmail.com
+NXB009/Nha Xuat Ban Khoa Hoc/Hai Phong/022112233/nxb9@gmail.com
+NXB010/Nha Xuat Ban Tre Em/Can Tho/029887766/nxb10@gmail.com
+NXB011/Nha Xuat Ban Van Hoa 2/Ha Noi/024223344/nxb11@gmail.com
+NXB012/Nha Xuat Ban Giao Duc 2/Ho Chi Minh/028334455/nxb12@gmail.com
+NXB013/Nha Xuat Ban Kim Dong 2/Da Nang/023556677/nxb13@gmail.com
+NXB014/Nha Xuat Ban Thanh Nien 2/Hai Phong/022778899/nxb14@gmail.com
+NXB015/Nha Xuat Ban Thoi Dai 2/Can Tho/029667788/nxb15@gmail.com
+NXB016/Nha Xuat Ban Phu Nu 2/Ha Noi/024889900/nxb16@gmail.com
+NXB017/Nha Xuat Ban Lao Dong 2/Da Nang/023990011/nxb17@gmail.com
+NXB018/Nha Xuat Ban Van Hoa 2/Ho Chi Minh/028110022/nxb18@gmail.com
+NXB019/Nha Xuat Ban Khoa Hoc 2/Hai Phong/022334466/nxb19@gmail.com
+NXB020/Nha Xuat Ban Tre Em 2/Can Tho/029556677/nxb20@gmail.com
